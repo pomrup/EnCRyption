@@ -1,1 +1,1 @@
-simpler and less efficient ecryptions # crypto
+simpler and less efficient encryptions # crypto
